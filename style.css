@@ -33,7 +33,7 @@ top: 9px;
 .leftbg{
     background-color: #BDCCFF;
     width:429px;
-    height:841px;
+    height:641px;
     left:920px;
     top:0px;
     position:absolute;
@@ -140,4 +140,16 @@ top: 9px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 550;
     
+}
+
+.partners {
+    margin-left:80px;
+    position:absolute;
+    top:551px;
+
+}
+
+.partners h5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#31353B;
 }
