@@ -32,12 +32,28 @@ top: 9px;
 
 .leftbg{
     background-color: #BDCCFF;
-    width:485px;
+    width:465px;
     height:641px;
     left:880px;
     top:0px;
     position:absolute;
     z-index:-1;
+}
+
+.headerimage{
+    position: absolute;
+    width: 0px;
+    height: 573px;
+    left: 640px;
+    top: 100px;
+    filter: drop-shadow(0px 100px 80px rgba(0, 0, 0, 0.03)) drop-shadow(0px 64.8148px 46.8519px rgba(0, 0, 0, 0.0227778)) drop-shadow(0px 38.5185px 25.4815px rgba(0, 0, 0, 0.0182222)) drop-shadow(0px 20px 13px rgba(0, 0, 0, 0.015)) drop-shadow(0px 8.14815px 6.51852px rgba(0, 0, 0, 0.0117778)) drop-shadow(0px 1.85185px 3.14815px rgba(0, 0, 0, 0.00722222));
+
+}
+
+.headerimage img {
+    width:700px;
+    height: 600px;
+    margin-left:-73px;
 }
 
 .line1{
