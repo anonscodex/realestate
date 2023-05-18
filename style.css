@@ -169,3 +169,15 @@ top: 9px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:#31353B;
 }
+
+.logo1 {
+    margin-left:80px;
+    position:absolute;
+    top:600px;
+}
+
+.logo2 {
+    margin-left:170px;
+    position:absolute;
+    top:603px;
+}
