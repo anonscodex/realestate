@@ -177,19 +177,19 @@ top: 9px;
 }
 
 .logo2 {
-    margin-left:300px;
+    margin-left:340px;
     position:absolute;
     top:630px;
 }
 
 .logo3 {
-    margin-left:450px;
+    margin-left:480px;
     position:absolute;
     top:628px;
 }
 
 .logo4 {
-    margin-left:600px;
+    margin-left:630px;
     position:absolute;
     top:625px;
 }
@@ -201,7 +201,55 @@ top: 9px;
 }
 
 .c{
-    margin-left:180px;
+    margin-left:190px;
     position:absolute;
     top:630px;
+}
+
+.h{
+    margin-left:210px;
+    position:absolute;
+    top:630px;
+}
+
+.a{
+    margin-left:230px;
+    position:absolute;
+    top:630px;
+}
+
+.s{
+    margin-left:250px;
+    position:absolute;
+    top:630px;
+}
+
+.e{
+    margin-left:270px;
+    position:absolute;
+    top:630px;
+}
+
+.fb {
+    position: absolute;
+    top:250px;
+    right:30px;
+}
+
+.insta {
+    position: absolute;
+    top:300px;
+    right:30px;
+}
+
+.tweet {
+    position: absolute;
+    top:350px;
+    right:30px;
+}
+
+.in {
+    position: absolute;
+    top:400px;
+    right:30px;
 }
