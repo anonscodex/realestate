@@ -33,7 +33,7 @@ top: 9px;
 .leftbg{
     background-color: #BDCCFF;
     width:465px;
-    height:641px;
+    height:645px;
     left:880px;
     top:0px;
     position:absolute;
@@ -173,11 +173,35 @@ top: 9px;
 .logo1 {
     margin-left:80px;
     position:absolute;
-    top:600px;
+    top:625px;
 }
 
 .logo2 {
-    margin-left:170px;
+    margin-left:300px;
     position:absolute;
-    top:603px;
+    top:630px;
+}
+
+.logo3 {
+    margin-left:450px;
+    position:absolute;
+    top:628px;
+}
+
+.logo4 {
+    margin-left:600px;
+    position:absolute;
+    top:625px;
+}
+
+.logo5 {
+    margin-left:750px;
+    position:absolute;
+    top:630px;
+}
+
+.c{
+    margin-left:180px;
+    position:absolute;
+    top:630px;
 }
