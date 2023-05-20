@@ -304,6 +304,21 @@ top: 9px;
     margin-left: 1010px;
 }
 
+.line {
+    position:absolute;
+    margin-left:330px;
+    width:300px;
+    top:940px;
+}
+
+.lineb {
+    position:absolute;
+    margin-left:750px;
+    width:300px;
+    top:940px;
+}
+
+
 .box1 img{
     align-items: center;
     position: absolute;
@@ -383,4 +398,16 @@ top: 9px;
     font-family: serif;
     font-weight: 300;
     font-style: bold;
+}
+
+.phase3 {
+    margin-left: 80px;
+    top:1300px;
+    position: absolute;
+}
+
+.phase3 h3{
+    font-size: 30px;
+    font-weight: 200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
