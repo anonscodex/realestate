@@ -459,6 +459,12 @@ top: 9px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
 }
 
+.h4c {
+    color : #F85A47;
+    border-bottom :2px solid #F85A47;
+    
+}
+
 .imgroll {
     position:absolute;
     top:1550px;
@@ -470,4 +476,43 @@ top: 9px;
     width:30%;
     height:50%;
     
+}
+
+.phase4 {
+    width:99%;
+    position :absolute;
+    top : 1950px;
+}
+
+.phase4 h3 {
+    text-align: center;
+    color:black;
+    font-family: monospace;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 55px;
+    
+}
+
+.bigbox {
+    position: absolute;
+    width: 1170px;
+    height: 600px;
+    margin-left: 80px;
+    top: 2100px;
+    background-color: #F1FFFF;
+}
+
+.bigbox1 {
+    margin-left:50px;
+    top:50px;
+    position: absolute;
+}
+
+.bigbox2 {
+    position: absolute;
+    left: 17px;
+    top: 300px;
+    filter: drop-shadow(0px 163px 80px rgba(0, 0, 0, 0.04)) drop-shadow(0px 105.648px 46.8519px rgba(0, 0, 0, 0.0303704)) drop-shadow(0px 62.7852px 25.4815px rgba(0, 0, 0, 0.0242963)) drop-shadow(0px 32.6px 13px rgba(0, 0, 0, 0.02)) drop-shadow(0px 13.2815px 6.51852px rgba(0, 0, 0, 0.0157037)) drop-shadow(0px 3.01852px 3.14815px rgba(0, 0, 0, 0.00962963)) drop-shadow(48px 58px 44px rgba(0, 0, 0, 0.09));
 }
